@@ -1,10 +1,10 @@
 {
   "name": "angular-hotkeys",
   "author": "Wes Cruver",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "license": "MIT",
   "description": "Automatic keyboard shortcuts for your Angular Apps",
-  "homepage": "https://chieffancypants.github.io/angular-hotkeys",
+  "homepage": "https://github.com/noiceman/hotkeys",
   "main": "build/hotkeys.js",
   "keywords": [
     "angular",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/chieffancypants/angular-hotkeys.git"
+    "url": "git://github.com/noiceman/hotkeys.git"
   },
   "bugs": {
     "url": "https://github.com/chieffancypants/angular-hotkeys/issues"
